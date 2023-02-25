@@ -1,0 +1,1 @@
+This project show mastery of shell permmission by showing scripts to do various task relating to SHELL permission.Remeber we only interact indirectly with kernel as Shell is our meditor.But when  we use command in shell its like we are communicating directly with our kernel
